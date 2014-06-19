@@ -1,0 +1,39 @@
+{
+  "name": "Lego",
+  "version": "0.0.0",
+  "description": "Web development framework ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liferayhacks/lego"
+  },
+  "author": "Crisp Analytics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liferayhacks/lego/issues"
+  },
+  "homepage": "https://github.com/liferayhacks/lego",
+  "dependencies": {
+    "body-parser": "^1.2.2",
+    "cookie-parser": "^1.1.0",
+    "express": "^4.3.2",
+    "express-session": "^1.2.1",
+    "jade": "^1.3.1",
+    "karma": "^0.12.16",
+    "karma-chai-plugins": "^0.2.1",
+    "karma-mocha": "^0.1.3",
+    "mocha": "^1.20.0",
+    "mongoose": "^3.8.11",
+    "passport": "^0.2.0",
+    "passport-local": "^1.0.0",
+    "session": "^0.1.0",
+    "stylus": "^0.45.1"
+  },
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "karma-chrome-launcher": "^0.1.4"
+  }
+}
