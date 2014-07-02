@@ -21,6 +21,5 @@ angular.module('app').controller('ProfileCtrl', function($scope, mvAuth, mvIdent
 		function(reason){
 			mvNotifier.error(reason);
 		});
-	}
-
+	};
 });

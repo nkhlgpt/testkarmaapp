@@ -1,0 +1,5 @@
+{
+  "prepare": "echo prepare !",
+  "test": "echo test statement!",
+  "deploy": "echo deploy "
+}
