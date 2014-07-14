@@ -4,7 +4,7 @@
   "description": "Web development framework ",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/karma/bin/karma start",
+    "test": "node_modules/karma/bin/karma start && exit"
   },
   "repository": {
     "type": "git",
